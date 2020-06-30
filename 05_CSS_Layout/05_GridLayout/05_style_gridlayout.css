@@ -37,6 +37,12 @@ div { /*CSS-Selektor*/
     border: solid 1px black;
 }
 
+.innerContent{
+    padding: 20px;
+    font-family: Verdana;
+    background-color: beige;
+}
+
 /*
     AUFGABE:
     1) Erstelle eine neue CSS-KLasse innerContent
